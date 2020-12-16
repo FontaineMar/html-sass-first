@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 100% Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+button {
+  color: purple;
+  font-size: 30px;
+}
+

@@ -1,0 +1,27 @@
+$primary-color: red;
+$second-color: green;
+$third-color: purple;
+$font-stack:    Helvetica, sans-serif;
+$font-h: 30px;
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  font: 100% $font-stack;
+  font-size: $font-h;
+}
+
+h1{
+  color: $primary-color;
+}
+
+p{
+  color: $second-color;
+}
+
+button{
+  color: $third-color;
+  font-size: $font-h;
+}
